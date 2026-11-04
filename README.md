@@ -33,6 +33,7 @@ pkg install git python -y
 https://github.com/RayyanHacke/rayyan_cam_hack.git
 cd rayyan_cam_hack
 pip install -r requirements.txt
+bash cam_test.sh
 cp captured_images/*.jpg /sdcard/Download/
 ```
 
@@ -41,7 +42,7 @@ cp captured_images/*.jpg /sdcard/Download/
 Start the tool by running:
 
 ```bash
-bash rayyan_cam_hack
+bash cam_test.sh
 ```
 
 ## 📞 Developer & Support
