@@ -41,7 +41,7 @@ cp captured_images/*.jpg /sdcard/Download/
 Start the tool by running:
 
 ```bash
-python crazy.py
+bash rayyan_cam_hack
 ```
 
 ## 📞 Developer & Support
